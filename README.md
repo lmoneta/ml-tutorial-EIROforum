@@ -3,7 +3,7 @@
 
 This repository contains the Jupyter notebooks for the hands-on tutorial for the Artificial Inteligence session at the 6th EIROforum school on Instrumentation.
 
-See the [https://indico.cern.ch/event/777129/timetable/#20190516.detailed][agenda page]
+See the [[https://indico.cern.ch/event/777129/timetable/#20190516.detailed][agenda page]]
 
 You you want to run from SWAN you can open directly a notebook in SWAN from github.
 Otherwise you can do:
