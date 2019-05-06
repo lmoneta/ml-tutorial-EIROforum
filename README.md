@@ -29,7 +29,8 @@ For the other configuration parameters you can use the default values.
 *  Click on  `Start my Session` at the button of the page. 
 
    *  Starting the session might take some time, especially if many users are doing it at the same time. 
-   *  In case you observe an error when staring the session, it is likely that your CERNBox account has been not activated. In this case you should get a message: *Do you have CERNBOx account? If not click [here](https://cernbox.cern.ch)* By clicking on the provided link, you will be directed to [CERNbox]((https://cernbox.cern.ch) and by doing this your CERNBox account will be automatically validated.
+   *  In case you observe an error when staring the session, it is likely that your CERNBox account has been not activated. In this case you should get a message: *Do you have CERNBox account? If not click [here](https://cernbox.cern.ch)*. 
+   *  By clicking on the provided link, you will be to [CERNbox](https://cernbox.cern.ch) and, by doing this, your CERNBox account will be automatically validated.
    *  After having validated CERNBox you can click again on `Start my Session`. You might need to logout and login again if case an error occours.
    
 *  When a SWAN session is started you will be in the `My Project` page. Click on the ``+`` button (*Add  new Project*) located at the top right
@@ -42,7 +43,7 @@ https://github.com/lmoneta/ml-tutorial-EIROforum
 
 *  Open the SWAN Project ``ml-tutorial-EIROforum``.
 
-Now the notebook will be visible in your SWAN project area and you can start using them, by clicking on the file names. 
+Now the notebooks will be visible in your SWAN project area and you can start using them, by clicking on the file names. 
 
 ### How to download notebooks in your computer
 
@@ -60,7 +61,7 @@ git clone  https://github.com/lmoneta/ml-tutorial-EIROforum
 * A browser window will appear and the notebooks will be visible there and you can open by clicking on them 
 
 
-Note that you can also just download the notebook repository directly in SWAN from the SWAN terminal Window. By doing this the ``ml-tutorial-EIROforum`` will be visible in the Cernbox area accessible from SWAN. 
+Note that you can also just download the notebook repository directly in SWAN from the SWAN terminal Window. By doing this the ``ml-tutorial-EIROforum`` will be visible in the CERNBox page of SWAN. 
 
 ## SWAN and Jupyter notebooks quick start ##
 
@@ -74,9 +75,10 @@ Here you can find a quick start information on what are the Jupyter notebooks an
 
 For information on using SWAN, see the SWAN website: https://swan.web.cern.ch
 
-In a nutshell, "SWAN (Service for Web based Analysis) is a platform to perform interactive data analysis in the cloud". It gives you access to a coherent software stacks for data analysis used at CERN (e.g. ROOT software framework, various scientific Python software packages, etc..) and to a storage facility (CERNBOX). 
+In a nutshell, **SWAN** (*Service for Web based Analysis*) is a platform to perform interactive data analysis in the cloud. It gives you access to a coherent software stacks for data analysis used at CERN (e.g. ROOT software framework, various scientific Python software packages, etc..) and to a storage facility (CERNBOX). 
 
 
-* You need to have an active **CERNBOX** to use swan (https://cernbox.cern.ch/). If you don't have a CERN account, please use the temporary accounts provided to you. 
-In that case you need to sign a form and we will provide you the credential for the SWAN account. 
+* You need to have an active **CERNBox** to use SWAN. If you don't have a CERN account, please use the temporary accounts provided to you. As mentioned before, you might need to activate first the CERNBox account. This is done automatically the first time you go to https://cernbox.cern.ch
+
+For getting the login credential of the temporary CERN accounts you need to sign first a form to agree on their usage and the [CERN Computing rules](https://security.web.cer.ch/security/rules/en/index.shtml) . 
 
