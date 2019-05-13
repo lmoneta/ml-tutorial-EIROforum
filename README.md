@@ -41,7 +41,7 @@ For the other configuration parameters you can use the default values.
    *  By clicking on the provided link, you will be to [CERNbox](https://cernbox.cern.ch) and, by doing this, your CERNBox account will be automatically validated.
    *  After having validated CERNBox you can click again on `Start my Session`. You might need to logout and login again if case an error occours.
    
-*  When a SWAN session is started you will be in the `My Project` page. Click on the ``+`` button (*Add  new Project*) located at the top right
+*  When a SWAN session is started you will be in the `My Project` page. Click on the ``Download`` icon (*Download Project from git*) located at the top right next to the ``+`` icon. 
 
 *  Enter the URL for the notebook GitHub repository (the link is also available in the Indigo agenda page)
 
