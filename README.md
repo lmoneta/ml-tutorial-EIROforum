@@ -5,6 +5,14 @@ This repository contains the Jupyter notebooks for the hands-on tutorial for the
 
 See the [agenda page](https://indico.cern.ch/event/777129/timetable/#20190516.detailed)
 
+There are three notebooks in the repository:
+
+* [EIRO-ESI-2019](https://github.com/lmoneta/ml-tutorial-EIROforum/blob/master/EIRO-ESI-2019.ipynb) **Prediction of the Mars Express Thermal Power Consumption**. Notebook from Jose Martinex Heras and included from https://github.com/jmartinezheras/ml-introduction-EIROforum for predicting the power consumption of Mars Express. 
+
+* [Higgs_classification_exaple](https://github.com/lmoneta/ml-tutorial-EIROforum/blob/master/Higgs_classification_example.ipynb) **Higgs Event classification with Deep Learning**. Example for using deep learning tools for classification of Higgs events at LHC.
+
+* [Ecal2DGan](https://github.com/lmoneta/ml-tutorial-EIROforum/blob/master/Ecal2DGan.ipynb) **Example of a Generative Adversarial Network** for fast simulation of electromagnetic shower images reconstructed by a calorimeter detector. 
+
 
 
 ## Opening the Jupyter notebooks
