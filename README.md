@@ -66,7 +66,7 @@ git clone  https://github.com/lmoneta/ml-tutorial-EIROforum
 * The notebooks will be in the directory *ml-tutorial-Europium*. Go to this directory
 * Run the Jupyter notebook service by doing from the terminal
 ```jupyter notebook``
-* A browser window will appear and the notebooks will be visible there and you can open by clicking on them 
+* A browser window will appear and the notebooks will be visible there and you can open a notebook by clicking on the link associated with its name. 
 
 
 Note that you can also just download the notebook repository directly in SWAN from the SWAN terminal Window. By doing this the ``ml-tutorial-EIROforum`` will be visible in the CERNBox page of SWAN. 
